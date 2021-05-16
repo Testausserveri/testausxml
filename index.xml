@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<testausxml>
+    <päähine>
+        <otsikko>Testausserveri</otsikko>
+    </päähine>
+    <sisältö>
+        <linkkinappulat>
+            <nappula kohde="https://testausserveri.fi">Huonommat kotisivut</nappula>
+            <nappula kohde="https://discord.testausserveri.fi">Discord</nappula>
+            <nappula kohde="https://git.testausserveri.fi">GitHub</nappula>
+            <nappula kohde="https://instagram.com/testausserveri">Instagram</nappula>
+            <nappula kohde="https://www.youtube.com/channel/UCax9TBqmRApG3RSspvzyxvA">YouTube</nappula>
+        </linkkinappulat>
+        <pienempiotsikko>Tervetuloa Testausserverille!</pienempiotsikko>
+        <tekstiä>
+            Testausserveri on yhteisö koodaamisesta ja teknologiasta innostuneille nuorille. Kehitämme yhdessä erilaisia mielenkiintoisia projekteja, joita voit tsekata alta.
+        </tekstiä>
+        <tekstiä>
+            Keskusteluihimme on helppo liittyä matalalla kynnyksellä, sekä kannustamme jäseniämme kehittymään kanssamme.
+        </tekstiä>
+    </sisältö>
+    <script xmlns="http://www.w3.org/1999/xhtml" src="script.js"></script>
+</testausxml>

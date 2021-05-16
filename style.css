@@ -1,0 +1,51 @@
+testausxml {
+    zoom: 1.2;
+}
+päähine {
+    width: calc(100% - 30px);
+    background-color: cadetblue;
+    display: block;
+    padding: 15px;
+}
+sisältö {
+    width: calc(100% - 30px);
+    background-color: lightcyan;
+    display: block;
+    padding: 15px;
+}
+linkkinappulat nappula {
+    background-color: lightseagreen;
+    padding: 15px;
+    display: inline-block;
+    cursor: pointer;
+}
+linkkinappulat nappula:hover {
+    font-weight: bold;
+}
+linkkinappulat nappula:nth-child(2) {
+    background-color: lightskyblue;
+}
+linkkinappulat nappula:nth-child(3) {
+    background-color: lightyellow;
+}
+linkkinappulat nappula:nth-child(4) {
+    background-color: lightpink;
+}
+linkkinappulat nappula:nth-child(5) {
+    background-color: lightgreen;
+}
+
+otsikko {
+    font-size: 30px;
+}
+
+pienempiotsikko {
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    margin: 30px 0 40px 0;
+}
+tekstiä {
+    margin: 20px 0;
+    display: block;
+}
